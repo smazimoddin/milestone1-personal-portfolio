@@ -240,8 +240,11 @@ section.mission-area h1 {
   background: #fff;
 }
 
-.service-offers-single-item p {
-  margin-top: 25px;
+.service-offers-single-item h4 {
+  margin-top: 35px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  text-transform: uppercase;
 }
 
 /* footer area */
